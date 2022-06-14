@@ -1,0 +1,2 @@
+# Iris-Recognition-Based-on-Feature-Extraction-Network
+本项目是生物特征识别课程的课程设计，使用tensorflow2实现，特征提取网络使用了在ImageNet上训练的ResNet50预训练模型，使用传统方法对MMU1数据集上的人眼图片进行语义分割
